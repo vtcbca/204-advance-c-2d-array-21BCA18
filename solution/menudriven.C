@@ -60,7 +60,7 @@ int menu()
 void addtion()
 	{
 	int x,y;
-	printf("Enter teo value");
+	printf("Enter two value");
 	scanf("%d%d",&x,&y);
 	printf("\n addtion of %d& %d is %d",x,y,x+y);
 	}
